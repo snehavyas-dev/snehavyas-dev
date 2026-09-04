@@ -49,7 +49,7 @@
 
 ## 🚀 Projects
 
-Here are some of the projects I've built while learning and improving my web development skills:
+A selection of projects I've built while learning, practicing, and improving my web development skills:
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -73,18 +73,6 @@ Currently focusing on:
 **HTML & CSS** → **JavaScript** → **React** → **Node.js** → **Full Stack Development**
 
 I'm learning by building projects rather than only studying theory.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehavyas-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Sneha's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehavyas-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
