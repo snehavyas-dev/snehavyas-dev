@@ -1,38 +1,112 @@
 <h1 align="center">Hi 👋, I'm Sneha Vyas</h1>
-<h3 align="center">🚀 Frontend Developer · B.Tech CSE Student · Building clean & responsive web experiences</h3>
 
-<br/>
+<h3 align="center">
+  💻 Frontend Web Developer · 🎓 B.Tech CSE Student · 🚀 Building Responsive & User-Friendly Web Experiences
+</h3>
 
-- 🎓 I'm a **B.Tech CSE Student** passionate about frontend development
-- 💻 Built **responsive, 100% mobile-friendly websites** using HTML, CSS & JS
-- 🌱 Currently improving my **JavaScript & React** skills
-- 🤝 Open to **internships, collaborations & Remote jobs/Projects**
-- ⚡ Fun fact: I love turning designs into real websites!
-
-<br/>
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,vscode,bootstrap,replit,nodejs" />
+<p align="center">
+  <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-orange?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
-<br/>
+---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 👩‍💻 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehavyas250-collab&show_icons=true&theme=tokyonight" />
+- 🎓 I'm a **B.Tech Computer Science & Engineering student**
+- 💻 I enjoy building **responsive, clean and user-friendly websites**
+- 🌱 Currently strengthening my **JavaScript** skills through hands-on projects
+- ⚛️ Exploring **React** as my next step in frontend development
+- 🔧 I use **Git & GitHub** to manage and showcase my projects
+- 🚀 Working toward becoming a **Full Stack Web Developer**
+- 🤝 Open to **internships, collaborations and freelance projects**
+- ⚡ I love turning ideas and designs into functional websites
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehavyas250-collab&layout=compact&theme=tokyonight" />
+### Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,replit" />
 </p>
 
-<br/>
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs" />
+</p>
 
-<h3 align="left">🔗 Connect with me</h3>
+---
+
+## 🚀 Projects
+
+Here are some of the projects I've built while learning and improving my web development skills:
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 🎮 **Tic Tac Toe** | Two-player interactive game with score tracking and win detection | HTML · CSS · JavaScript |
+| 🌦️ **Weather App** | Weather application using API-based data | HTML · CSS · JavaScript |
+| 📚 **BookVault** | Digital library project with interactive functionality | HTML · CSS · JavaScript |
+| 🍔 **SnapBite** | Responsive restaurant website | HTML · CSS · JavaScript |
+| ✍️ **SignFlexi** | Responsive business website | HTML · CSS · JavaScript |
+| 💼 **Personal Portfolio** | Personal developer portfolio | HTML · CSS · JavaScript |
+
+> More projects coming as I continue my learning journey 🚀
+
+---
+
+## 📈 My Learning Journey
+
+I'm following a **learn → build → improve → repeat** approach.
+
+Currently focusing on:
+
+**HTML & CSS** → **JavaScript** → **React** → **Node.js** → **Full Stack Development**
+
+I'm learning by building projects rather than only studying theory.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehavyas-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Sneha's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehavyas-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p>
-  📧 Email me (snehavyas250@gmail.com) · 💼 LinkedIn (https://www.linkedin.com/in/sneha-vyas-94a0bb3a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 🌐 Portfolio (https://snehavyas-dev.github.io/responsive-website/)
+  📧 <strong>Email:</strong> 
+  <a href="mailto:snehavyas250@gmail.com">snehavyas250@gmail.com</a>
+  <br/>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">
+    linkedin.com/in/sneha-vyas-94a0bb3a3
+  </a>
+  <br/>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">
+    View My Portfolio
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
