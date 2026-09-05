@@ -5,21 +5,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">
-    🌐 <b>Portfolio</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">
-    💼 <b>LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:snehavyas250@gmail.com">
-    📧 <b>Email</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/snehavyas-dev">
-    🐙 <b>GitHub</b>
-  </a>
+  🌐 <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">Portfolio</a>
+  &nbsp; • &nbsp;
+  💼 <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  📧 <a href="mailto:snehavyas250@gmail.com">Email</a>
+  &nbsp; • &nbsp;
+  🐙 <a href="https://github.com/snehavyas-dev">GitHub</a>
 </p>
 
 ---
