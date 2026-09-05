@@ -6,13 +6,19 @@
 
 <p align="center">
   <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio">
+    🌐 <b>Portfolio</b>
   </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn">
+    💼 <b>LinkedIn</b>
   </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:snehavyas250@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" alt="Email">
+    📧 <b>Email</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/snehavyas-dev">
+    🐙 <b>GitHub</b>
   </a>
 </p>
 
