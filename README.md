@@ -6,10 +6,13 @@
 
 <p align="center">
   <a href="https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-orange?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:snehavyas250@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" alt="Email">
   </a>
 </p>
 
